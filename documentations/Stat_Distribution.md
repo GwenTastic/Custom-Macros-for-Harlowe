@@ -3,7 +3,7 @@
 To install this Macro, simply create a `startup` tagged passage and copy and paste [this content](https://github.com/GwenTastic/Custom-Macros-for-Harlowe/blob/main/src/StatDistribution.ruby) into the passage.
 
 ## Description:
-This Macro creates a table with a row for all provided stats, in addition it also creates two arrows for adding points to the stat or subtracting them away. You can Test a [demo here]()
+This Macro creates a table with a row for all provided stats, in addition it also creates two arrows for adding points to the stat or subtracting them away. You can Test a [demo here](https://github.com/GwenTastic/Custom-Macros-for-Harlowe/blob/main/Demos/Harlowe%20Skillpoints%20Demo.html)
 
 <br>
 
